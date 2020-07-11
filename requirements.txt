@@ -6,7 +6,9 @@ django-environ==0.4.5
 isort==4.3.21
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
+psycopg2-binary==2.8.5
 pylint==2.5.3
+pypi==2.1
 pytz==2020.1
 six==1.15.0
 sqlparse==0.3.1
